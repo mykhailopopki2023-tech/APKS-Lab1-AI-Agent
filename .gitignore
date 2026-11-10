@@ -11,14 +11,21 @@ target/
 .idea/
 *.iml
 .vscode/
+.classpath
+.project
+.settings/
 
 # Logs
 *.log
+*.tmp
+*.temp
+*.swp
 
 # Environment and secrets
 .env
 .env.*
 !.env.example
+local.properties
 
 # OS
 .DS_Store

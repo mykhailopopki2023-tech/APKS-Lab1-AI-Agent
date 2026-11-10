@@ -14,7 +14,7 @@ src/main/java/com/apks/App.java
 ## Requirements
 
 - Java Development Kit (JDK) 21
-- Apache Maven (build configuration will be added separately)
+- Apache Maven 3.10.0 (the Maven Wrapper is also included)
 
 ## Application
 
